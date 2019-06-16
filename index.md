@@ -8,4 +8,4 @@ Aprende a crear mods para Minecraft de forma senzilla y con total libertad. Cono
 - Conocimento bàsico del lenguaje de programación Java
 - Si necesitas aprender Java o repasar conceptos comprueba [este tutorial](https://www.codecademy.com/learn/learn-java) (En inglés, 100% recomendado)
 - Ordenador no necessariamente potente (Si puedes jugar a Minecraft con mods, puedes crearlos)
-Nada màs? No, nada màs. El resto lo aprenderàs en la sección [Antes de empezar](#).
+Nada màs? No, nada màs. El resto lo aprenderàs en la sección [Preparar el entorno de trabajo](/tutorial/entorno).
