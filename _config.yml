@@ -9,6 +9,6 @@ plugins:
 markdown: kramdown
 defaults:
   - scope:
-      path: "assets/"
+      path: "assets/**/*"
     values:
-      exclude: true
+      sitemap: false
