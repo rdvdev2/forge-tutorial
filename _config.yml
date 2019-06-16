@@ -4,6 +4,8 @@ description: >-
   Aprende a desarrollar mods para Minecraft Forge con tutoriales sencillos y fáciles de seguir.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://modding.rdvdev2.tk" # the base hostname & protocol for your site, e.g. http://example.com
+plugins:
+  - jekyll-sitemap
 markdown: kramdown
 defaults:
   - scope:
