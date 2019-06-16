@@ -5,3 +5,8 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://modding.rdvdev2.tk" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
+defaults:
+  - scope:
+      path: "assets/"
+    values:
+      exclude: true
