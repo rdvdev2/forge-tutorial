@@ -3,5 +3,5 @@ email: rdvdev2@gmail.com
 description: >-
   Aprende a desarrollar mods para Minecraft Forge con tutoriales sencillos y fáciles de seguir.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://modding.rdvdev2.tk" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
