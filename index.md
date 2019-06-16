@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inicio
+title: Introducción
 order: 0
 ---
 Aprende a crear mods para Minecraft de forma senzilla y con total libertad. Conoceràs desde lo más basico hasta lo mas complejo de la Forge API. Crearàs bloques, items, dimensiones, biomas, entidades, recetas... Encuentra recursos útiles para tus futuros proyectos y conoce las buena pràcticas que te facilitaran el proceso de crear tu propio mod y convertir Minecraft en cualquier locura que ronde tu cabeza.
